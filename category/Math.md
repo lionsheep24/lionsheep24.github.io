@@ -1,6 +1,7 @@
 ---
 
 layout: category
-title: Math
+title: Learn & Earn
+order: 2
 
 ---
